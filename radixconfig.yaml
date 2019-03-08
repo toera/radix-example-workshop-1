@@ -17,7 +17,7 @@ spec:
       monitoring: true
       resources:
         requests:
-          memory: "64Mi"
+          memory: "32Mi"
           cpu: "150m"
         limits:
           memory: "128Mi"
